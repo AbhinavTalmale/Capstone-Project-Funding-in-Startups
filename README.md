@@ -85,6 +85,7 @@
 Analyzing the funding landscape of startups can provide valuable insights to guide strategic decision-making for aspiring entrepreneurs and investors in the dynamic startup ecosystem. This study aims to uncover trends and patterns in startup funding, including the distribution of funding across different categories, markets, and regions, as well as the correlation between a startup's funding characteristics and its funding success. By examining factors such as funding rounds, funding types, geographical locations, and the impact of economic conditions, this project seeks to offer actionable recommendations to optimize the funding journey for startups and identify sectors with higher investment potential.
   
 ### Dataset:
+[Dataset](https://github.com/AbhinavTalmale/Capstone-Project-Funding-in-Startups/tree/main/Dataset)
 
 ### Dataset Description:
 
